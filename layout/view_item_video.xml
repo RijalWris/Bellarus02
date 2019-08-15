@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="280dp"
+    android:layout_height="170dp">
+
+    <WebView
+        android:layout_marginTop="20dp"
+        android:id="@+id/videoWebView"
+        android:layout_width="280dp"
+        android:layout_height="150dp">
+
+    </WebView>
+
+</RelativeLayout>

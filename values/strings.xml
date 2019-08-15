@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bellarus</string>
+    <string name="motto">Enjoy The Process</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nama">Rijal Wrisaba</string>
+    <string name="status">10116367 \nIF 8 \nUnikom</string>
+    <string name="tentang">Saya Suka Bermain game, Bermain Basket . Aplikasi ini dibuat untuk memenuhi Ujian Tengah Semester 6 Mata Kuliah Aplikasi Komputasi Bergerak</string>
+    <string name="interst"> Interested In</string>
+    <string name="game">Games</string>
+    <string name="science">Science</string>
+    <string name="anime">Car</string>
+    <string name="galleryTitle">Title</string>
+    <string name="nomor">+6289659112576</string>
+    <string name="email">rijalwrisaba@gmail.com</string>
+    <string name="ket_about1">This Application is for Education Purposes Only</string>
+    <string name="ket_about2">Version 1.0.0</string>
+</resources>
